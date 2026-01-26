@@ -1,4 +1,4 @@
-# Game Studio Brainstorming Template
+# Game Studio Brainstorming 
 
 ## Studio Name Ideas
 - **Primary Ideas:**
