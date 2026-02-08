@@ -19,7 +19,7 @@
   - I looked over the slides and reviewed everything once again.
   - I chose Galaxian as my main game
   - I played the game and it was similiar to Galaga, (makes sense since Galaga is a sequel)
-  -  
+    
 - **Challenges faced**:
   -  The initial websites the Professor gave were not working and so I had to find my own. Though to be honest I know Galaga so I'm familiar with the gameloop.
   -  The questions themselves were interesting yet they were sometimes difficult to come up with answers since some things didn't really apply like character development.
@@ -41,4 +41,3 @@
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 - N/A
--  <!--Your entry here or N/A if not applicable for this entry-->
