@@ -7,10 +7,10 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate-->
-- [ ] Atari HW assignment
+- [x] Atari HW assignment
 - [x] Choose game
 - [x] PlayTest game
-- [ ] Finish the rest of the hw
+- [x] Finish the rest of the hw
 - [x] Look over the slides and review them
 
 
@@ -36,15 +36,7 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 - I found this assignment very enjoyable since I was able to explore retro games that I enjoyed a lot, playing both the prequel and sequel.
--  <!--Your entry here or N/A if not applicable for this entry-->
-<!--
 
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
