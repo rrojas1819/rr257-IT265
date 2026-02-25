@@ -7,20 +7,21 @@
 
 #### Goals for this Module
 - [ ] Submit this on time because I didn't submit Module Dev log 4 on time.
-- [ ] Go over the slide content and start the [Design Treatment] Treatment Checkpoint ahead of time
+- [x] Go over the slide content and start the [Design Treatment] Treatment Checkpoint ahead of time
 - [ ] Double check dates for things are due and ask Professor about Dev Log 5 and 6 being due on the same day.
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - I read the slide contents ahead of time and now need to consider the steps that I want to take for the game I have in mind.
+    
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  It is difficult to consider all these topics on my own in relation to the Design Treatment.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
-
+  -  I remembered the slide mentioned getting inspiration and so that's what I'm doing and I started remembering all the things I've read, and started thinking how I can adapt my favorite aspects in some way.
+  
 #### Learnings
 - Key insights, techniques, or concepts explored.
 -  <!--Your entry here or N/A if not applicable for this entry-->
