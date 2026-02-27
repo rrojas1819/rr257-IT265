@@ -3,10 +3,7 @@
 ---
 
 ## Title
-<!-- 
-Enter the name of your game concept. 
-Make it concise yet engaging, reflecting the game's essence. 
--->
+Gathering of Chaos
 
 ---
 
@@ -15,6 +12,7 @@ Make it concise yet engaging, reflecting the game's essence.
 Provide a one-sentence summary that captures the core idea of your game. 
 This should convey what makes your game unique in a compelling way. 
 -->
+A volatile deckbuilder with classes set in a tavern with magic and artifacts.
 
 ---
 
@@ -25,6 +23,7 @@ This should convey what makes your game unique in a compelling way.
 Specify the game's genre (e.g., action, adventure, strategy, puzzle). 
 Mention any sub-genres if applicable. 
 -->
+The games genre is fantasy, strategy, deckbuilder, RNG.
 
 ### Style
 <!-- 
@@ -32,7 +31,7 @@ Describe the tone, visual approach, and gameplay feel.
 Examples: "A dark, gothic horror with hand-drawn 2D animation" or 
 "A lighthearted, comedic party game with vibrant colors and exaggerated physics." 
 -->
-
+A relaxing but intense game related to fantasy and space that emphasizes the importance of building your next move, it would be more comedic in nature with the plays and style of game play.
 ---
 
 ## Target Audience
@@ -42,12 +41,14 @@ Examples: "A dark, gothic horror with hand-drawn 2D animation" or
 Identify the target age group, interests, and gamer profile. 
 Mention if your game appeals to casual or hardcore players. 
 -->
+Age group would be 12+, simply because you do need to be able to think ahead a bit to make the game really fun. In terms of interest, it would pertain to people who enjoy deck building and having huge comebacks when things look south. I think the game would appeal to casual party games as well as some more serious players trying to maximize their hands. Definitely not for competitive though, at least not balanced to that goal.
 
 ### Accessibility
 <!-- 
 Describe how the game will accommodate different skill levels. 
 Will there be difficulty modes, tutorials, assistive options, etc.? 
 -->
+Technically the game does have a learning curve if you don't really know poker like that, but it isn't necessary since I didn't really go beyond the pair, threes, quads and straights concept of same type or continous number. In terms of accommodating different skill levels, I would say there could be a mode without the classes but I feel like then that just becomes more of a damage poker and like whoever can get more lucky, but that could work too for truly casual games of trying to learn the concepts of how to damage and how the attacks and special cards work. I like that idea, tutorial starts off with the concept of everything but the character perma buffs, and that can get introduced during a game so you don't get overwhelmed completely.
 
 ### Inclusivity Strategies
 <!-- 
@@ -121,12 +122,12 @@ Highlight key features that differentiate it in the market.
 <!-- 
 List books, movies, historical events, or games that influenced this project. 
 -->
-
+Poker, Slay the Spire, fantasy concepts like Greek/Norse
 ### Why It Matters
 <!-- 
 Explain how these inspirations shape the game’s mechanics, visuals, or themes. 
 -->
-
+Well the poker aspect of getting cards and trying to get the best hand is similiar to how you get the best attack, Slay the Spire for health and card disposal concept as well as inspiration for some card ideas. Greek/Norse for visual themes of groups and how they come about in the tavern.
 ---
 
 ## Player Experience Goals
@@ -134,7 +135,7 @@ Explain how these inspirations shape the game’s mechanics, visuals, or themes.
 Describe the intended player emotions and reactions. 
 Examples: excitement, curiosity, tension, relaxation, humor. 
 -->
-
+Player is suppose to feel excited and humored and tense by the fact that luck but skill play a role in whether or not you win. You can get a perfect hand but if you don't play it right you could still lose.
 ---
 
 ## Technical Requirements
@@ -144,12 +145,12 @@ Examples: excitement, curiosity, tension, relaxation, humor.
 Specify where the game will be played (e.g., PC, console, mobile, VR). 
 Mention any cross-platform support if applicable. 
 -->
-
+A game like this could be cross-platform, though I feel like PC, VR, and console would be more fun since you could have a mic and talk to other people.
 ### Tools
 <!-- 
 List key engines, programming languages, or frameworks required for development. 
 -->
-
+Not entirely sure, I have very little experience in Unity and Unreal, so I'd have to do research and determine which one I'd go with. Regardless though it is 100% going to be one of those two.
 ---
 
 ## Art and Sound Direction
@@ -158,12 +159,12 @@ List key engines, programming languages, or frameworks required for development.
 <!-- 
 Describe the art direction, including color schemes, animation style, and UI elements. 
 -->
-
+Color themes would be a lot of space colors, since the tavern concept is at "the edge of the universe" with multiple different types of classes of people who look different in concept and play differently. So the best example I can give would be
 ### Sound Design
 <!-- 
 Explain the role of music, sound effects, and audio feedback in enhancing immersion. 
 -->
-
+Music of the tavern would be dependent on the character I feel like, that would be a cool thing and the most important thing would be the sound effect of placing and playing the cards and playing extra sounds if you get a higher card and more damage.
 ---
 
 ## Monetization Strategy
@@ -171,7 +172,7 @@ Explain the role of music, sound effects, and audio feedback in enhancing immers
 Describe how the game will generate revenue. 
 Examples: one-time purchase, freemium model, ads, DLC, cosmetics, subscriptions. 
 -->
-
+I think a game like this would have a one-time purchase, and maybe some DLC, though I'd want to be careful cause I personally hate getting locked out of decks because I can't afford it. So DLC would probably be an early access of the character for like 2 dollars ahead of time for a month or something and it would locked to casual while I get feedback on the character and then I'd release the character for everyone else. People who bought the DLC would probably get a cool skin and cooler card designs and a nametag or something.
 ---
 
 ## Treatment Details
@@ -191,13 +192,14 @@ Explain what the player does, the challenges faced, and how the game responds.
 Identify elements that could fail or require refinement. 
 Examples: balancing issues, unclear mechanics, technological constraints. 
 -->
+With how the game works there would be huge balancing issues later in the rounds, but if you made your deck correctly and got some reasonable luck, I think you would be okay. If you didn't then that's when the problem would start occuring. I do need to think about the possibility of just straight up getting bad cards forever and do the math for that.
 
 #### Feasibility
 <!-- 
 Describe any technological, financial, or development constraints. 
 How will you mitigate these risks? 
 -->
-
+Time is always a real constraint in development and this applies here as well, in terms of finance not really since I don't plan on spending much money, and I have a computer so technology wise I am not limited, I am however limited by my game development skills.
 ---
 
 ## Visualizing the Game Concept
