@@ -242,19 +242,21 @@ Upload sketches here, or describe the key visual elements in detail if unavailab
 Provide a concise and engaging summary of the game concept and theme. 
 Make it persuasive and easy to understand. 
 -->
+Gathering of Chaos is a multiplayer fantasy inspired poker battler where players weaponize cards/artifacts/spells to deal devastating magical attacks, build suit-based class identities, and survive explosive chaos inside a tavern at the edge of the universe, you have to survive and be the last player standing!
 
 ### Target Audience Appeal
 <!-- 
 Explain how the game connects with its intended audience. 
 What elements make it particularly appealing to them? 
 -->
+The games target audience is people who enjoy deck builders but also enjoy party games to play with friends and family! I tried to go for a roguelite-inspired game as well but adding those elements without breaking balance completely is really difficult. The game is appealing because of how quickly thing can go south so there are those moments of laughter when you just get wiped by a friend/family member.
 
 ### Market Differentiation
 <!-- 
 Describe what makes this game unique in the current gaming market. 
 Compare it to similar games and highlight key advantages. 
 -->
-
+The game stands out in the current market because of the gameplay mechanics related to cards and perma buffs with the decks you build and with it relying on pvp scenarios to make things very fun! The game starts off balanced and then slowly evolves into more and more chaos. It is also a game oriented towards party/group play time to make things really fun but challenging enough so players can be strategic but also lucky.
 ---
 
 ## External Feedback
