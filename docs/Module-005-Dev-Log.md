@@ -21,6 +21,7 @@
   - Describe blockers, bugs, or issues encountered.
   -  It is difficult to consider all these topics on my own in relation to the Design Treatment.
   -  It was difficult to think of a lot of stuff and still be balanced, but I decided to go for chaotic replayability.
+  -  Finding people to ask was kinda of difficult but it was doable in the end.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   - I remembered the slide mentioned getting inspiration and so that's what I'm doing and I started remembering all the things I've read, and started thinking how I can adapt my favorite aspects in some way.
