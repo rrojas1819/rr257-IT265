@@ -55,6 +55,7 @@ Technically the game does have a learning curve if you don't really know poker l
 Explain how the game promotes inclusivity. 
 Consider gender representation, cultural diversity, and accessibility features for disabled players. 
 -->
+So there is mythological diversity where the characters draw inspiration from multiple cultures (Greek, Norse, cosmic fantasy), there also is colorblind accessbility since the colors don't necessarily matter, I can also add audio cues paired with visual effects for further accessibility. All the characters are technically gender neutral as well in appearance and voice since it is up to the player to choose!
 
 ---
 
@@ -65,18 +66,34 @@ Consider gender representation, cultural diversity, and accessibility features f
 List and describe the core gameplay mechanics players will engage with. 
 Explain how they contribute to the game's challenge and fun. 
 -->
+Poker-Based Combat is the core of Gathering of Chaos. Players attack using poker-style combinations such as pairs, triples, four-of-a-kind, straights, straight flushes, and the special four 10s combo. Damage scales based on the strength of the combination, duplicate ranks, and the highest card played. This system creates tactical risk-versus-reward decisions, encourages hand optimization, and introduces bluffing and political mind-games between players.
+
+The Suit Identity System gives each suit a class-like role. Spades focus on aggressive chip damage, Hearts emphasize survivability, Diamonds provide defense and scaling, and Clubs specialize in control and disruption. When a player collects four cards of the same suit, they may permanently lay them down to gain that suit’s buff, sacrificing those cards from their usable pool. This creates build identity, mid-game specialization, and meaningful strategic trade-offs.
+
+The Berserk System is a reactive mechanic designed to prevent unfair targeting. If a player is attacked by two different players in one round, they gain a double attack on their next turn. If attacked by three or more players, they immediately interrupt the turn order and take a full turn with their current hand. This discourages ganging up, prevents passive elimination, and ensures political targeting carries real consequences.
+
+Finally, the Joker Class, unlocked after Round 3, introduces late-game chaos. A player who becomes the Joker gains bonus health, increased attack and defense, card trading abilities, and passive chip damage against all players. However, they cannot gain permanent suit buffs and must roll dice to activate Joker abilities. The Joker adds volatility, rule-bending mechanics, and unpredictable end-game swings.
 
 ### Goals and Challenges
 <!-- 
 Detail what players aim to achieve and the obstacles they must overcome. 
 Explain how these challenges drive player engagement. 
 -->
+The primary goal in Gathering of Chaos is simple but intense, which is to be the last player alive and finish with the highest remaining HP. This creates constant pressure throughout the match, as players must balance immediate survival with long-term positioning. Players face several challenges throughout the game. Since you can only hold six cards at a time, managing your hand carefully is very important. Deciding when to give up four cards for a permanent suit buff means choosing between losing strength now for a bigger advantage later. As the game goes on, area-of-effect attacks and Joker chip damage make survival even harder. The constant balance between playing aggressively and staying alive is what makes the game exciting and keeps each round unpredictable.
 
 ### Progression
 <!-- 
 Describe how the gameplay evolves over time. 
 Are there new abilities, unlockable levels, skill trees, or difficulty scaling? 
 -->
+Early Game: Rounds 1–3
+The game starts on even ground. Since everyone begins with a balanced hand and full health, nobody is at a disadvantage. These rounds are all about finding your rhythm. You’ll focus on picking a suit and deciding on a long-term strategy. While there is some attacking, it’s mostly just "testing the waters" while you gather the cards needed for permanent buffs. It’s a period of careful planning rather than total chaos.
+
+Mid Game: Rounds 4–6 
+After Round 3, the Joker enters the deck, adding a layer of unpredictability. By now, players have usually activated their suit buffs, so you’ll start seeing more defensive bonuses and tactical chip damage. Politics come into play here players begin to spot the leaders, form loose alliances, and coordinate attacks.
+
+Late Game: Rounds 7–10
+High-tier plays like Straight Flushes can wipe out health bars in a single turn and Berserk interrupt means a heavy attack can instantly backfire into a deadly counter. Between the Void card banning key ranks and the potential for massive swings can happen and basically just wipe people easily.
 
 ### Game Rules
 <!-- 
@@ -93,12 +110,15 @@ Ensure they are clear, structured, and intuitive.
 Describe the game world, its rules, and any unique environmental elements. 
 Provide enough detail to establish immersion. 
 -->
+The setting of the game is more of a card fighting game, so if we want to add a true setting, it can be anything I really desire. With that in mind, I think it would be cool if the game revolved around multiverse fantasy setting, specifically let's say at a tavern and each suit of the card correlated with magic and artifacts. The players themselves are gambling with their own health points, and the card chain attacks are magic chain attacks. The player starts weaving magic(cards) to fight against others and uses artifacts(special cards) to do special effects on other players and during the match.
+
 
 ### Plot
 <!-- 
 Outline the central narrative arc. 
 What is the player’s role in the story, and what major events drive the gameplay forward? 
 -->
+Multiple gather at a tavern from different places(the suits representing different types of people), the players start off as blank slates until they get "convinced"(put the 4 cards down to join a suit) to join a group and then they represent that group until they switch and when they are in a group they get buffs according to their class. The players are fighting each other for fun and to see how far they can get against each other by gambling their health points. The winner is determined by the last man standing over the others, if hp reaches zero they can no longer play. The joker joins the deck at round 3, and is in particular a different class since they are considered a deity in this game and cause lot's of chaos.
 
 ### Characters
 <!-- 
