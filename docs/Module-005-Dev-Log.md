@@ -6,7 +6,7 @@
 ### Date: [02/25/2026]
 
 #### Goals for this Module
-- [ ] Submit this on time because I didn't submit Module Dev log 4 on time.
+- [x] Submit this on time because I didn't submit Module Dev log 4 on time.
 - [x] Go over the slide content and start the [Design Treatment] Treatment Checkpoint ahead of time
 - [x] Double check dates for things are due and ask Professor about Dev Log 5 and 6 being due on the same day.
 
@@ -38,3 +38,4 @@
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
 -  <!--Your entry here or N/A if not applicable for this entry-->
+-  Refine my game mechanics further after talking to other people!
