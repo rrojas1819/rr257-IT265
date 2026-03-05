@@ -25,7 +25,7 @@
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
   -  <!--Your entry here or N/A if not applicable for this entry-->
-  -  
+  -  Thinking about getting a good round number but still being able to display it visually during a live showcase is difficult.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   -  <!--Your entry here or N/A if not applicable for this entry-->
@@ -51,4 +51,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  Create the quizlet for the
+-  Create the quizlet for the exam by getting the slides.
