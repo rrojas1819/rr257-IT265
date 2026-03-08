@@ -36,14 +36,6 @@
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 - I really hope we don't present beyond the students in class lol.
 - There are a couple ideas on how to approach the rules aspect, one of my friends recommended to put some of the explanations on the cards as well, like the way it attacks and buffs, which I thought was a great idea!
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
