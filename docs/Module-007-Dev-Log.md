@@ -6,9 +6,9 @@
 ### Date: [3/29/2026]
 
 #### Goals for this Module
-- [x] Flesh out the health system for the game
-- [x] Cut out the cards and glue them to another
-- [x] Create a document that details everything in more detail since I forgot to paste some of the instructions and mechanic details in the treatment
+- [x]  Flesh out the health system for the game
+- [x]  Cut out the cards and glue them to another
+- [x]  Create a document that details everything in more detail since I forgot to paste some of the instructions and mechanic details in the treatment
 
 
 #### Progress
@@ -21,10 +21,11 @@
   - Describe blockers, bugs, or issues encountered.
   -  Initially thinking about the health system and how it would work, was difficult but the solution was a lot easier than I imagined.
   -  I had to rethink the structure of the design treatment and my own document and how I could integrate my info into the design treatment in a logical way. Though, I might make a separate document that encompasses both.
-  
+
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   - I decided on using poker ships but turning them into crystals, so like a "mana" crystal would have 100, 50, 25, 10, 2, 1 hp. Realistically, each player needs, 1 100, 1 50, 1 25 , 4 10, and 4 2's and 1 1.
+
 #### Learnings
 - Key insights, techniques, or concepts explored.
 -  I learned that designing the cards was evil, luckily though since I designed them digitally this makes my life easier when I do the digital design!
