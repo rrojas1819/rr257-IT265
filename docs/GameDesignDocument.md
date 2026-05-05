@@ -1,4 +1,4 @@
-# GAME DESIGN DOCUMENT (GDD)
+# GAME DESIGN DOCUMENT
 
 **Game Name:** Gathering of Chaos
 
@@ -15,6 +15,8 @@
 * **Language:** C# (Unity Engine)
 * **Device:** PC
 
+## Demo Video: To Be Added tomorrow.
+
 ## GAME PLAY
 Gathering of Chaos drops players into a card game where they draw from a central deck to build poker-styled hands. Some examples being playing a Straight Flush immediately halves the target's HP, bypassing standard armor, while deploying a Void card permanently bans a mechanic from the table and more!
 
@@ -30,6 +32,16 @@ Gathering of Chaos drops players into a card game where they draw from a central
 * **Losing:** Health points reaching zero.
 * **End:** A final score screen showing the surviving player and total damage dealt.
 * **Why is all this fun?:** It combines structured card math with betrayals, and massive power swings.
+
+# Change Log
+
+* Transitioned the visual design from a planned 3D environment to a **2D top-down UI** to save time and focus on validating the core game loop and card math.
+* Added a **Round 3 lock** on the Joker card. Shuffling it into the 53-card deck later ensures the early game remains structured and prevents a player from snowballing a class mutation on Turn 1.
+* Clarified the **Four 10s Combo**. Added the "Option A vs. Option B" ultimatum to give players a massive, game-shifting choice rather than just flat damage.
+* The Original UI was actually okay and pretty looking and then I lost it all, so I had to quickly create something that worked, so I could continue adding more features.
+* Plan to change the 4 card suit system to a 2 card suit system, meaning the buffs will be easier to get and more importantly I nerfed the strength as a result since you can switch easily.
+* From a multiplayer standpoint, I changed it to a Player vs AI, as of right now because I felt like local lan was too ugly and more importantly it was just not worth the time to try to figure it out.
+
 
 ## Key Features
 * **Poker-Scaling Combat:** Utilize actual Poker hands (Pairs, Triples, Straights) to mathematically scale damage output.
