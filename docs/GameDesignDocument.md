@@ -9,7 +9,7 @@
 **Players:** 1 to 4, however, currently it supports 1 player against 1-3 AI oppoenents
 
 ## TECHNICAL SPECS
-* **Technical Form:** 2D graphics (flat) for the current rapid prototype, transitioning to 3D graphics (form) for the final release to enhance the tabletop feel.
+* **Technical Form:** 2D graphics (flat) for the current prototype, transitioning to 3D graphics (form) for the final release to enhance the tabletop feel.
 * **View:** Top-down camera view.
 * **Platform:** PC
 * **Language:** C# (Unity Engine)
