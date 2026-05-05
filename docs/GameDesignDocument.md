@@ -4,9 +4,9 @@
 
 **Genre:** Strategy / Multiplayer Card Battler / Tabletop
 
-**Game Elements:** Poker-style combat scaling, deck building and manipulation, triggering "Berserk" state interrupts, and locking in suit-based permanent buffs.
+**Game Elements:** Poker-style combat scaling, deck building and manipulation, triggering "Berserk" state interrupts, and locking in suit-based buffs.
 
-**Players:** 1 to 4
+**Players:** 1 to 4, however, currently it supports 1 player against 1-3 AI oppoenents
 
 ## TECHNICAL SPECS
 * **Technical Form:** 2D graphics (flat) for the current rapid prototype, transitioning to 3D graphics (form) for the final release to enhance the tabletop feel.
@@ -40,7 +40,7 @@ Gathering of Chaos drops players into a card game where they draw from a central
 ## DESIGN DOCUMENT
 
 ### Design Guidelines
-Card data would ideally be decoupled to keep things modular, and the turn order must utilize a stack based state machine to accommodate the Berserk interrupt without breaking the game loop as well as maintaing state between other playeres and actions.
+Card data would ideally be decoupled to keep things modular, and the turn order must utilize a stack based state machine to accommodate the Berserk interrupt without breaking the game loop as well as maintaing state between other players and actions.
 
 ### Game Design Definitions
 The main focus of the gameplay is risk management. A player wins by surviving to the end or eliminating all opponents, and loses when their HP hits zero. Transitions between rounds occur automatically when all players have completed their Draw, Action, and Discard phases.
@@ -56,7 +56,7 @@ The main focus of the gameplay is risk management. A player wins by surviving to
 
 ### Player Stats
 * **Health:** Each player starts with 180 HP.
-* **Weapons:** A 52-card base deck and 24 Special Cards (e.g., AoE Attack, Void Card).
+* **Weapons:** A 52-card base deck and 24 Special Cards.
 * **Actions:** Play up to 5 cards per attack, lock in 4 suit cards for a permanent buff, trigger Berserk interrupts, or activate Joker dice rolls.
 
 ### Player Properties
@@ -75,11 +75,11 @@ The main focus of the gameplay is risk management. A player wins by surviving to
 * **Forced All-In Card (3x):** Choose a target. Both you and the target are forced to immediately play all cards in your hands against each other.
 * **The Void Card (1x):** The ultimate ban card. Used once per game to permanently ban 1 special card type and 2 normal number ranks from the table. Cannot be undone.
 
-**The Buffs:**
-* **Spades Suit Buff:** Grants a permanent +2 bonus damage and deals passive chip damage to everyone based on the round number.
-* **Hearts Suit Buff:** Provides a one-time death negation per game for the entire round and grants immunity to chip damage.
-* **Diamonds Suit Buff:** Grants +3 flat defense and the ability to double current HP for 4 turns once per game.
-* **Clubs Suit Buff:** Allows the player to steal 1 card or force an opponent to roll higher than a 6 to avoid damage every round.
+**The Buffs (Requires 2 matching suit cards to lock in; can be swapped at any time before the turn ends, can only do swap once per round):**
+* **Spades Suit Buff:** Grants a permanent +1 bonus damage and deals 2 passive chip damage to one random opponent at the end of your turn.
+* **Hearts Suit Buff:** Grants immunity to passive chip damage. Once per game, if you take lethal damage, you survive with 1 HP, but your locked Heart cards are permanently destroyed.
+* **Diamonds Suit Buff:** Grants +1 flat defense. Once per game, you can activate this buff to gain a temporary 20 HP shield for one round.
+* **Clubs Suit Buff:** Once per round, force an opponent to roll a 6-sided die. On a roll of 1 or 2, they take 25 damage.
 * **The Joker Card:** Injected into the deck after Round 3. Drawing it allows the player to mutate their class, gaining +15% Max HP, +1 Attack, +1 Defense, and unique dice-roll abilities.
 
 ## User Interface (UI)
