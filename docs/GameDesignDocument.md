@@ -15,7 +15,7 @@
 * **Language:** C# (Unity Engine)
 * **Device:** PC
 
-## Demo Video: To Be Added tomorrow.
+## Demo Video: https://www.youtube.com/watch?v=zmPc7hhl9T8
 
 ## GAME PLAY
 Gathering of Chaos drops players into a card game where they draw from a central deck to build poker-styled hands. Some examples being playing a Straight Flush immediately halves the target's HP, bypassing standard armor, while deploying a Void card permanently bans a mechanic from the table and more!
